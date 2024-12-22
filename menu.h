@@ -3,6 +3,8 @@
 
 #include <iostream>
 #include <QApplication>
+
+#include "StyleSheetUtils.h"
 #include "TicTacToe/GameWindow.h"
 #include "Tests/Summary_Tests.h"
 #include "ExamplesOfClasses//MainMenu.h"
@@ -42,6 +44,7 @@ inline void print_menu(int argc, char *argv[]) {
         std::cout << "_____________________________________________________________\n";
         std::cout << "Launching Main Menu...\n";
         QApplication app(argc, argv);
+        applyStyleSheet(app);
         MainMenuApp mainMenu;
         mainMenu.show();
         app.exec(); // Запуск GUI-приложения

@@ -303,6 +303,7 @@ lab_3_autogen/timestamp: \
   C:/msys64/mingw64/include/qt6/QtCore/q20memory.h \
   C:/msys64/mingw64/include/qt6/QtCore/q20type_traits.h \
   C:/msys64/mingw64/include/qt6/QtCore/q23utility.h \
+  C:/msys64/mingw64/include/qt6/QtCore/qabstractitemmodel.h \
   C:/msys64/mingw64/include/qt6/QtCore/qalgorithms.h \
   C:/msys64/mingw64/include/qt6/QtCore/qanystringview.h \
   C:/msys64/mingw64/include/qt6/QtCore/qarraydata.h \
@@ -378,6 +379,7 @@ lab_3_autogen/timestamp: \
   C:/msys64/mingw64/include/qt6/QtCore/qprocessordetection.h \
   C:/msys64/mingw64/include/qt6/QtCore/qrect.h \
   C:/msys64/mingw64/include/qt6/QtCore/qrefcount.h \
+  C:/msys64/mingw64/include/qt6/QtCore/qregularexpression.h \
   C:/msys64/mingw64/include/qt6/QtCore/qscopedpointer.h \
   C:/msys64/mingw64/include/qt6/QtCore/qscopeguard.h \
   C:/msys64/mingw64/include/qt6/QtCore/qset.h \
@@ -458,8 +460,10 @@ lab_3_autogen/timestamp: \
   C:/msys64/mingw64/include/qt6/QtGui/qtguiexports.h \
   C:/msys64/mingw64/include/qt6/QtGui/qtguiglobal.h \
   C:/msys64/mingw64/include/qt6/QtGui/qtransform.h \
+  C:/msys64/mingw64/include/qt6/QtGui/qvalidator.h \
   C:/msys64/mingw64/include/qt6/QtGui/qwindowdefs.h \
   C:/msys64/mingw64/include/qt6/QtGui/qwindowdefs_win.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/QComboBox \
   C:/msys64/mingw64/include/qt6/QtWidgets/QFileDialog \
   C:/msys64/mingw64/include/qt6/QtWidgets/QLabel \
   C:/msys64/mingw64/include/qt6/QtWidgets/QLineEdit \
@@ -468,8 +472,12 @@ lab_3_autogen/timestamp: \
   C:/msys64/mingw64/include/qt6/QtWidgets/QVBoxLayout \
   C:/msys64/mingw64/include/qt6/QtWidgets/QWidget \
   C:/msys64/mingw64/include/qt6/QtWidgets/qabstractbutton.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qabstractitemdelegate.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qabstractscrollarea.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qabstractslider.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qabstractspinbox.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qboxlayout.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qcombobox.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qdialog.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qfiledialog.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qframe.h \
@@ -479,7 +487,13 @@ lab_3_autogen/timestamp: \
   C:/msys64/mingw64/include/qt6/QtWidgets/qlayoutitem.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qlineedit.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qpushbutton.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qrubberband.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qsizepolicy.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qslider.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qstyle.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qstyleoption.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qtabbar.h \
+  C:/msys64/mingw64/include/qt6/QtWidgets/qtabwidget.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qtextedit.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qtwidgets-config.h \
   C:/msys64/mingw64/include/qt6/QtWidgets/qtwidgetsexports.h \
@@ -628,6 +642,7 @@ lab_3_autogen/timestamp: \
   D:/programming/3_sem/lab_3/IDictionary.h \
   D:/programming/3_sem/lab_3/ISortedSequence.h \
   D:/programming/3_sem/lab_3/RedBlackTree.h \
+  D:/programming/3_sem/lab_3/StyleSheetUtils.h \
   D:/programming/3_sem/lab_3/Tests/Summary_Tests.h \
   D:/programming/3_sem/lab_3/Tests/Tests_IDictionary.h \
   D:/programming/3_sem/lab_3/Tests/Tests_ISortedSequence.h \

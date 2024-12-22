@@ -31,6 +31,7 @@ add_executable(lab_3 main.cpp
         ExamplesOfClasses/MainMenu.cpp
         ExamplesOfClasses/MainMenu.h
         ExamplesOfClasses/SortedSequenceApp.cpp
-        ExamplesOfClasses/SortedSequenceApp.h)
+        ExamplesOfClasses/SortedSequenceApp.h
+        StyleSheetUtils.h)
 
 target_link_libraries(lab_3 PRIVATE Qt6::Core Qt6::Gui Qt6::Widgets sfml-system sfml-window sfml-graphics sfml-audio sfml-network)
