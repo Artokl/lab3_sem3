@@ -25,8 +25,8 @@ public:
 
     private slots:
         void addElement();
-    void updateOutput();
-    void orderChanged(int index); // Слот для обработки изменений выбора в QComboBox
+    void updateOutput() const;
+    void orderChanged(int index) const; // Слот для обработки изменений выбора в QComboBox
 };
 
 #endif // SORTEDSEQUENCEAPP_H

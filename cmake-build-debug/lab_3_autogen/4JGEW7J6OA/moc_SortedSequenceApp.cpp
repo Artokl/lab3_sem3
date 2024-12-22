@@ -63,8 +63,8 @@ Q_CONSTINIT static const uint qt_meta_data_CLASSSortedSequenceAppENDCLASS[] = {
 
  // slots: name, argc, parameters, tag, flags, initial metatype offsets
        1,    0,   32,    2, 0x08,    1 /* Private */,
-       3,    0,   33,    2, 0x08,    2 /* Private */,
-       4,    1,   34,    2, 0x08,    3 /* Private */,
+       3,    0,   33,    2, 0x108,    2 /* Private | MethodIsConst  */,
+       4,    1,   34,    2, 0x108,    3 /* Private | MethodIsConst  */,
 
  // slots: parameters
     QMetaType::Void,

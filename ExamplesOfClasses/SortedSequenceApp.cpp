@@ -29,7 +29,7 @@ SortedSequenceApp::SortedSequenceApp(QWidget *parent) : QWidget(parent) {
 
 void SortedSequenceApp::addElement() {
     bool ok;
-    int value = inputField->text().toInt(&ok);
+    const int value = inputField->text().toInt(&ok);
     if (ok) {
         sortedSequence.Add(value);
         updateOutput();
@@ -39,7 +39,7 @@ void SortedSequenceApp::addElement() {
     }
 }
 
-void SortedSequenceApp::updateOutput() {
+void SortedSequenceApp::updateOutput() const {
     auto sequence = sortedSequence.GetSequence();
 
     // Определяем порядок сортировки на основе выбранного элемента в QComboBox
@@ -56,7 +56,7 @@ void SortedSequenceApp::updateOutput() {
     }
 }
 
-void SortedSequenceApp::orderChanged(int index) {
+void SortedSequenceApp::orderChanged([[maybe_unused]] int index) const {
     // Обновляем отображение при изменении порядка
     updateOutput();
 }
