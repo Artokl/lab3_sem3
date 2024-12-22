@@ -1,0 +1,5 @@
+D:/programming/3_sem/lab_3/cmake-build-debug/CMakeFiles/lab_3.dir
+D:/programming/3_sem/lab_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programming/3_sem/lab_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/programming/3_sem/lab_3/cmake-build-debug/CMakeFiles/lab_3_autogen_timestamp_deps.dir
+D:/programming/3_sem/lab_3/cmake-build-debug/CMakeFiles/lab_3_autogen.dir
